@@ -1,4 +1,4 @@
-Modded bios to get the q9650 of the DG33M03 Motherboard variants of dell vostro 400 to recognize and use a Q9650 properly
+Modded bios to get the q9650 on a DG33M03 Motherboard variants of dell vostro 400 to recognize and use a Q9650 properly
 (Maybe other motherboard variant can take this bios, Unable to test.)
 
 
