@@ -37,7 +37,7 @@ How to install :
 
 12 : Once you've found said file Type in cd : "Biossh~1 or something". Then type the following command AWD899.EXE 713D1L50.BIN /py /sn /cc /cd /cp
 
-13 : A windows should appear and it should normally erase the previous bios image and overwrite it with the modified one, The computer should beep alot, It's normal, Don't worry.
+13 : A window should appear and it should normally erase the previous bios image and overwrite it with the modified one, The computer will beep alot, It's normal, Don't worry.
 
 14 : After it is done, It'll tell you to press f1 to finish, Press it. Then it should reboot into the bios, From there you might wanna check the setup bios page by pressing f2.
 
